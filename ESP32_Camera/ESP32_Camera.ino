@@ -8,8 +8,8 @@
 #define RXD2 14  // UOR pin
 #define TXD2 12  // UOT pin
 
-const char* ssid = "sujal Garg5G";       // Replace with your Wi-Fi SSID
-const char* password = "9729720002";              // Replace with your Wi-Fi Password
+const char* ssid = "Vivo 1915";       // Replace with your Wi-Fi SSID
+const char* password = "12345@12";              // Replace with your Wi-Fi Password
 const char* serverUrl = "http://192.168.29.201:3000"; // Replace with your server URL
 
 void startCameraServer();

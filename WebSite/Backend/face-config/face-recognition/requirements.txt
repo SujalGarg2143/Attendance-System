@@ -1,3 +1,4 @@
 face_recognition
 numpy
 opencv-python
+# node --env-file=.env .\app.js
